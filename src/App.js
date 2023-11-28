@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import { VideoList } from './components/Videolist/VideoList';
+import './App.css';
 
 export default function App() {
     const [list, setList] = useState([
