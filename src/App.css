@@ -9,6 +9,10 @@ body {
   justify-content: center;
 }
 
+.videos {
+  display: flex;
+}
+
 .video {
   width: 460px;
   margin: 10px;
